@@ -19,7 +19,9 @@ Create empty div in HTML
 ```
 
 Pass Crossword JSON as params along with div id in script. 
+
 Sample JSON : https://github.com/hasitpbhatt/crossword/blob/main/sample_gujarati.json
+
 JSON Format : https://www.xwordinfo.com/JSON/
 
 ```
